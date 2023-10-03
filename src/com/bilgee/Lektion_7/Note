@@ -1,1 +1,4 @@
 Interfaces
+Säkra med Abstrahering
+Scope- Sedan tidigare har vi kunnat begränsa åtkomst via 'scope' AKA 'Visibility Modifiers'
+Men det finns som sagt andra sätt att säkra data.
